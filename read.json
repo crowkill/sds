@@ -1,0 +1,34 @@
+{
+    "ROM": {
+        "ce9bdce9a2ca811a0ab1ad39e8e7fb9a3": {},
+        "u0baa1fcc243facedeea137933c80e7ff": {},
+        "u1f6372adbaa3e2a5cea980b076072a45": {},
+        "u35931f3f5a59bf51f86591d06a33a087": {},
+        "u495a9073dade2f6b13b6ccae5cd54f8a": {},
+        "uc69fed9a50ffc555037e07c5e755a6c2": {}
+    },
+    "readMember": {
+        "ce9bdce9a2ca811a0ab1ad39e8e7fb9a3": "",
+        "u0baa1fcc243facedeea137933c80e7ff": "",
+        "u1f6372adbaa3e2a5cea980b076072a45": "",
+        "u35931f3f5a59bf51f86591d06a33a087": "",
+        "u495a9073dade2f6b13b6ccae5cd54f8a": "",
+        "uc69fed9a50ffc555037e07c5e755a6c2": ""
+    },
+    "readPoint": {
+        "ce9bdce9a2ca811a0ab1ad39e8e7fb9a3": "8151845891478",
+        "u0baa1fcc243facedeea137933c80e7ff": "7567268910704",
+        "u1f6372adbaa3e2a5cea980b076072a45": "7582030912022",
+        "u35931f3f5a59bf51f86591d06a33a087": "7582098509786",
+        "u495a9073dade2f6b13b6ccae5cd54f8a": "7582012615345",
+        "uc69fed9a50ffc555037e07c5e755a6c2": "7584986912083"
+    },
+    "readTime": {
+        "ce9bdce9a2ca811a0ab1ad39e8e7fb9a3": "12:42:16",
+        "u0baa1fcc243facedeea137933c80e7ff": "09:41:19",
+        "u1f6372adbaa3e2a5cea980b076072a45": "01:12:39",
+        "u35931f3f5a59bf51f86591d06a33a087": "01:38:51",
+        "u495a9073dade2f6b13b6ccae5cd54f8a": "01:05:55",
+        "uc69fed9a50ffc555037e07c5e755a6c2": "16:37:17"
+    }
+}
